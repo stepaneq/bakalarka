@@ -5,5 +5,5 @@ git add .
 git commit -m "[note]: %commit_message%"
 git push origin HEAD
 
-echo Hotovo
+echo Zaloha dokoncena
 pause
